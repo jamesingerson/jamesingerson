@@ -1,6 +1,6 @@
-### Hi there 👋
+### Healthcare IT champion.
 
-I'm a Healthcare IT champion. If you get a laboratory test done in Te Manawa Taki (Midlands Region, New Zealand), you're using my code!
+If you get a laboratory test done in Te Manawa Taki (Midland Region, New Zealand), you're using my code!
 
 - IT implementation lead of a full immunology analyser refresh.
 - Interfaced world's first BD Cor on the Synapsys platform.
