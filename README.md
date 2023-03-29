@@ -9,9 +9,9 @@ If you get a laboratory test done in Te Manawa Taki (Midland Region, New Zealand
 - Real time registration data insights, courier tracking, cross department messaging.
 - Health and business statistical insights, quality incident investigation, novel health data requests.
 
-Outside of work, I'm a business and finance nerd, enthralled by D&D, and all about nature relatedness.
+Outside of work, I'm a business and finance nerd, enthralled by D&D, and always keen for a nature walk.
 
-Most of what I do is sensitive/proprietary/legacy. But you might catch me here tinkering with web dev, automation, data analysis, or cloud stuff.
+Most of what I do is sensitive/proprietary/legacy. But you might catch me here tinkering with this or that.
 
 [LinkedIn](https://www.linkedin.com/in/james-ingerson/)
 
