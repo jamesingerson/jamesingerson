@@ -14,5 +14,3 @@ Outside of work, I'm a business and finance nerd, enthralled by D&D, and always 
 Most of what I do is sensitive/proprietary/legacy. But you might catch me here tinkering with this or that.
 
 [LinkedIn](https://www.linkedin.com/in/james-ingerson/)
-
-[Personal Site](https://www.jamesingerson.com/)
